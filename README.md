@@ -9,4 +9,4 @@
 ' A plain code block '
 **bold text**
 __bold text__
-\'''Monospaced text (e.g., code)\'''
+'''Monospaced text (e.g., code)'''
