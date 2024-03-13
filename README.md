@@ -35,17 +35,10 @@ $E=mc^2$
    - sub-item 1
    - sub-item 2
  
+1. Item 1
+2. Item 2 
+ 
 | **Header 1** | **Header 2** |
 | ----------- | ----------- |
 | Cell 1   | Cell 2   |
 | Cell 3    | Cell 4   |
-
-
-
-
-
-
-
-
-
-
