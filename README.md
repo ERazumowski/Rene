@@ -13,6 +13,29 @@
 
 __bold text__
 
-'''
-Monospaced text (e.g., code)
-'''
+
+`Monospaced text (e.g., code)`
+
+~~striked text~~
+
+superscript<sup>s2<sup>
+
+An inline equation, $E=mc^2$. An equation block (below) 
+
+$E=mc^2$
+
+$E=mc^2$
+
+  [A hyperlink](https://to_rmarkdown.rstudio.com)
+
+
+
+
+
+
+
+
+
+
+
+
