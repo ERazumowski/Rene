@@ -8,6 +8,9 @@
 > A block quote
 
 ' A plain code block '
+
 **bold text**
+
 __bold text__
+
 'Monospaced text (e.g., code)'
