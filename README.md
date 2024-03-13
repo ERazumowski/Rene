@@ -13,4 +13,6 @@
 
 __bold text__
 
-'Monospaced text (e.g., code)'
+\'''
+Monospaced text (e.g., code)'
+\'''
